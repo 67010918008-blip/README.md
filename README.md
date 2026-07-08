@@ -1,4 +1,5 @@
 # README.md
 ชื่อ นาย กิตติพัฒน์ มีพานทอง
-มีทักษะในการเขียนโค้ด N8N, Visual Studio Code
-มีทักษะการใช้โปรแกรม AI ChatGPT Gemini
+Gmail: 67010918008@msu.ac.th
+มีทักษะในการเขียนโค้ด: N8N, Visual Studio Code
+มีทักษะการใช้โปรแกรม AI: ChatGPT Gemini
